@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.4454bba2.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"edit-profile.md","lastUpdated":1674104098000}'),r={name:"edit-profile.md"};function o(s,c,i,n,d,p){return a(),t("div")}const l=e(r,[["render",o]]);export{f as __pageData,l as default};

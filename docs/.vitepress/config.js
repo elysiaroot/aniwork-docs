@@ -23,8 +23,15 @@ export default {
             {
                 text: '애니워크 시작하기',
                 items: [
+                    { text: '메인', link: '/' },
                     { text: '계정생성', link: '/signup' },
-                    { text: '프로필 변경', link: '/edit-profile' }
+                ]
+            },
+            {
+                text: '회원정보',
+                items: [
+                    { text: '개인정보정책', link: '/privacy' },
+                    { text: '프로필 변경', link: '/edit-profile' },
                 ]
             }
         ],

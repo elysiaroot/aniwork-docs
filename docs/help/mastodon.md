@@ -24,3 +24,4 @@ layout: doc
 - [유루툿](https://toot.funami.tech) <Badge type="tip" text="한국어권" /> <Badge type="info" text="잡다" />
 - [머스타드](https://mustard.blog) <Badge type="tip" text="한국어권" /> <Badge type="info" text="잡다" />
 - [덕 스페이스](https://duk.space) <Badge type="tip" text="한국어권" /> <Badge type="info" text="잡다" />
+- [슈퍼마켙](https://bakedbean.xyz) <Badge type="tip" text="한국어권" /> <Badge type="info" text="음식" />

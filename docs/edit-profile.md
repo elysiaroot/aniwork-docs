@@ -3,8 +3,8 @@ title: 프로필 변경
 lang: ko-KR
 layout: doc
 ---
-[[toc]]
 # 프로필 변경
+[[toc]]
 프로필 정보는 [프로필 편집](https://ani.work/settings/profile) 페이지에서 변경할 수 있습니다.
 ## 기본 정보 변경
 ![이름 및 자기소개](./images/profile/1.png)

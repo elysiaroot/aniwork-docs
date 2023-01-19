@@ -4,6 +4,7 @@ lang: ko-KR
 layout: doc
 ---
 # 애니워크 계정생성
+[[toc]]
 계정생성은 [계정생성 페이지](https://ani.work/auth/sign_up)에서 진행합니다.
 
 개인정보 정책 및 이용약관은 [개인정보 정책](https://ani.work/privacy-policy) 내에 존재하므로, 해당 페이지를 반드시 읽어주시기 바랍니다.
